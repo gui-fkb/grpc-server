@@ -10,6 +10,7 @@ message HelloRequest {
     string name = 1;
 }
 
-message HelloResposne {
+message HelloResponse {
     string message = 1;
 }
+
